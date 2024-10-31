@@ -1,16 +1,14 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Java CRUD Project</span>
 </h1>
-
-tktk add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
 
 ## About
 
 ***Instructors should see the Instructor Guide for more configuration details.***
 
-tktk Add a short description of the project here.
+This project is a full-stack application using Spring Boot and PostgreSQL. The app will allow users to perform full CRUD functionality on at least one model in addition to the User model. The app will use JWT for token-based authentication to sign up, sign in, and sign out. Authorization will be implemented for all CRUD operations. The app will be deployed online so that the rest of the world can use it.
 
 ## Content
 
@@ -20,4 +18,4 @@ tktk Add a short description of the project here.
 
 [Deliverables](../deliverables/README.md)
 
-[tktk Project Requirements PDF](../requirements-and-guidance/assets/project-requirements.pdf)
+[Project Requirements PDF](../requirements-and-guidance/assets/project-requirements.pdf)
