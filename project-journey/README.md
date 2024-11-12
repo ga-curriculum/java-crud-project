@@ -24,3 +24,7 @@ The fun part! Start building your project! The printable [project requirements P
 ## 4. Deploy the work you have so far
 
 Deploy your project to the internet following the included deployment guide and submit a URL for your deployed app. For more details, see the [Project Deployed App Deliverable](./deployed-app-deliverable/README.md).
+
+## 5. Submit the URL for your completed project
+
+Submit the URL for your the GitHub repo containing your project's JAR file. For more details, See the [Deployed App Deliverable](../deployed-app-deliverable/README.md).

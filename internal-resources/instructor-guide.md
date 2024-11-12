@@ -29,26 +29,11 @@ Some existing items already covered in this document that you may want to expand
 
 When making additions, avoid overwhelming students with irrelevant or unhelpful details. These documents are already dense for learners, so try not to go overboard by adding too much information.
 
-### Customizing deliverables
-
-Some instructors may want to split the project deliverable into multiple parts to give each item its own due date or ease data collection. Individual and coupled deliverable pages exist in this content and do not need to be created. These can be found at:
-
-**Individual**:
-
-- [Planning Deliverable](../planning-deliverable/README.md)
-- [GitHub Repo Deliverable](../github-repo-deliverable/README.md)
-- [Deployed App Deliverable](../deployed-app-deliverable/README.md)
-
-**Coupled**:
-
-- [Planning and GitHub Repo Deliverable](../planning-and-github-repo-deliverable/README.md)
-- [GitHub Repo and Deployed App Deliverable](../github-repo-and-deployed-app-deliverable/README.md)
-
 ## Notes for maintainers
 
 Edits to project requirements are complex and should be made thoughtfully. When requirements change, alterations need to be made uniformly to the following documents/resources:
 
-- [Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1E-MUvKSiwuT95Bkz0GTAyKQm48tVM6_bPqZk8LJ8U4A/edit?).
+- [Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1E-MUvKSiwuT95Bkz0GTAyKQm48tVM6_bPqZk8LJ8U4A/edit).
 - [Project Requirements PDF](../project-requirements-and-guidance/assets/project-requirements.pdf) (built from the Project Requirements document in Google Sheets).
 - [Project Requirements document served in GitHub Pages](../project-requirements-and-guidance/README.md).
 - All Java CRUD Project rubrics in Canvas.

@@ -21,8 +21,9 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 - The project uses Spring Boot to create a RESTful API.
 - The project uses a PostgreSQL database.
-- The project includes one model in addition to the User model. At least one entity must have a relationship with the User model.
-- Users can perform full CRUD functionality not including the User model.
+- The project includes at least one model in addition to the User model.
+- At least one model must have a relationship with the User model.
+- Full CRUD functionality is present in the app (excluding the User model).
 - The app uses JWT for token-based authentication to sign up, sign in, and sign out.
 - Authorization is implemented for all CRUD operations.
 - The app is deployed online so that the rest of the world can use it.
@@ -34,7 +35,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 - The files in the app are organized following the conventions demonstrated in lectures.
 - The code in the app adheres to coding conventions covered in lessons, like using plural names for arrays.
-- The app does not contain dead code, commented-out sections, or console logs.
+- The app does not contain dead code, commented-out sections, or prints to the console.
 - The app can be used without encountering errors.
 - The app is coded using proper indentation.
 - The GitHub repository used for the project must be named appropriately. For example, names that describe your project are appropriate, whereas generic names such as `ga-project` or `unit-project` are not.
